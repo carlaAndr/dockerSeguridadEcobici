@@ -1,0 +1,10 @@
+.git
+.github
+.gitignore
+salidas/
+datos_crudos/
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.pyc
+*.docx
+.DS_Store

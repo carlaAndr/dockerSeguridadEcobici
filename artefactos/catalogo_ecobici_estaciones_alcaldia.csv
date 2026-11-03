@@ -1,0 +1,678 @@
+﻿station_id,name,short_name,alcaldia
+673,CE-508 Libertad-C. José Sánchez Trujillo,508,Azcapotzalco
+681,CE-509  Juárez - Venecia,509,Azcapotzalco
+575,CE-510 Egipto - Calle Norte 79 A,510,Azcapotzalco
+697,CE-511 Palestina - Egipto,511,Azcapotzalco
+583,CE-512 Clavería - Floresta,512,Azcapotzalco
+656,CE-513 Av. Aquiles Serdán - Av. Invierno,513,Azcapotzalco
+586,CE-514 José F. Gutiérrez - Invierno,514,Azcapotzalco
+674,CE-515 Tebas-C. Salónica,515,Azcapotzalco
+589,CE-516 Texcoco - Nilo,516,Azcapotzalco
+591,CE-517 Ignacio Allende - Clavería,517,Azcapotzalco
+594,CE-518 Heliópolis - Norte 79A,518,Azcapotzalco
+592,CE-519 Poniente 58 - Cuitláhuac,519,Azcapotzalco
+659,CE-520 Salónica - Eje 3 Norte Camarones,520,Azcapotzalco
+593,CE-521 Yuca - Clavelinas,521,Azcapotzalco
+671,CE-522 Prol. Nueces - Av. Cuitlahuac,522,Azcapotzalco
+672,CE-523 Toronjil - Av. Cuitlahuac,523,Azcapotzalco
+702,CE-524 Malvón - Juan Sarabia,524,Azcapotzalco
+587,CE-525 Boldo - Tila,525,Azcapotzalco
+666,CE-526 Toronjil - Mejorana,526,Azcapotzalco
+588,CE-527 Boldo - Alcanfores,527,Azcapotzalco
+632,CE-528 Tlatilco - Av. Jardín,528,Azcapotzalco
+694,CE-529  Av Plan de San Luis - Calle Clavelinas,529,Azcapotzalco
+565,CE-530  Membrillo - Cda. Nueces,530,Azcapotzalco
+578,CE-531 Norte 67 - Poniente 44,531,Azcapotzalco
+678,CE-532  Av. Biólogo Maximino Martínez - Camarones,532,Azcapotzalco
+682,CE-533  Av Plan de San Luis - Eulalia Gúzman,533,Azcapotzalco
+647,CE-534 Tlatilco - Jazmín,534,Azcapotzalco
+610,CE-535 Av. Jardín - Orquídea,535,Azcapotzalco
+402,CE-276 Anaxágoras-Obrero Mundial,276,Benito Juárez
+435,CE-277 Prolongación Tonalá-Obrero Mundial,277,Benito Juárez
+211,CE-278 Mier Y Pesado-Obrero Mundial,278,Benito Juárez
+383,CE-279 La Morena-Providencia,279,Benito Juárez
+172,CE-280 Anaxágoras-Obrero Mundial,280,Benito Juárez
+232,CE-281 Pitágoras-La Morena,281,Benito Juárez
+212,CE-282 La Morena-Eje 2 Poniente Gabriel Mancera,282,Benito Juárez
+209,CE-283 Av. Coyoacán-Rafael Dondé,283,Benito Juárez
+64,CE-284 Dakota-Vermont,284,Benito Juárez
+31,CE-288 11 de Abril-Avenida 2,288,Benito Juárez
+430,CE-290 Yosemite-Colorado,290,Benito Juárez
+385,CE-291 Magdalena-División Del Norte,291,Benito Juárez
+409,CE-292 Adolfo Prieto-Eje 4 Sur Xola,292,Benito Juárez
+179,CE-293 Mier y Pesado-Eje 4 Sur Xola,293,Benito Juárez
+210,CE-294 Nicolás San Juan-Eje 4 Sur Xola,294,Benito Juárez
+393,CE-295 Anaxágoras-Eje 4 Sur Xola,295,Benito Juárez
+395,CE-296 Diagonal San Antonio-Enrique Rébsamen,296,Benito Juárez
+386,CE-297 Diagonal San Antonio-Enrique Rébsamen,297,Benito Juárez
+222,CE-298 Romero de Terreros-Gabriel Mancera,298,Benito Juárez
+401,CE-299 Romero de Terreros-Mier Y Pesado,299,Benito Juárez
+78,CE-300 Providencia -Luz Saviñón,300,Benito Juárez
+464,CE-301 Luz Saviñón-Magdalena,301,Benito Juárez
+96,CE-302 Luz Saviñón-Magdalena,302,Benito Juárez
+45,CE-303 Montecito-Av. Insurgentes,303,Benito Juárez
+404,CE-304 Montecito-Dakota,304,Benito Juárez
+277,CE-305 Avenida del Parque-Arizona,305,Benito Juárez
+62,CE-306 Dakota-Minnesota,306,Benito Juárez
+59,CE-307 Minnesota-Dakota,307,Benito Juárez
+65,CE-308 Nueva York-Arizona,308,Benito Juárez
+380,CE-309 Pensilvania-Arizona,309,Benito Juárez
+387,CE-310 Calle 1-Av. Patriotismo,310,Benito Juárez
+66,CE-312 Avenida 2-Calle 7,312,Benito Juárez
+457,CE-313 Pensilvania-Oklahoma,313,Benito Juárez
+388,CE-314 Nueva York-Louisiana,314,Benito Juárez
+76,CE-315 Alabama-Montana,315,Benito Juárez
+408,CE-316 San Francisco-Concepción Beistegui,316,Benito Juárez
+400,CE-317 Avenida Coyoacán-Torres Adalid,317,Benito Juárez
+217,CE-318 Luz Saviñón-Amores,318,Benito Juárez
+390,CE-319 Diagonal San Antonio-Luz Saviñón,319,Benito Juárez
+213,CE-320 Enrique Rébsamen-Luz Saviñón,320,Benito Juárez
+443,CE-321 Torres Adalid-Anaxágoras,321,Benito Juárez
+216,CE-322 Heriberto Frías-Concepción Beistegui,322,Benito Juárez
+396,CE-323 Concepción Beistegui-Gabriel Mancera,323,Benito Juárez
+70,CE-324 Amores-Avenida Eugenia,324,Benito Juárez
+67,CE-325 Providencia -Avenida Del Valle,325,Benito Juárez
+452,CE-326 Eugenia-Nebraska,326,Benito Juárez
+68,CE-327 Georgia -Pensilvania,327,Benito Juárez
+418,CE-328 Avenida 1-Calle 7,328,Benito Juárez
+391,CE-329 Calle 13-Avenida 1,329,Benito Juárez
+75,CE-330 Calle 15-Avenida Patriotismo,330,Benito Juárez
+382,CE-331 Avenida 2-Calle 17,331,Benito Juárez
+22,CE-332 Calle 27-Avenida 3,332,Benito Juárez
+48,CE-333 Georgia-Carolina,333,Benito Juárez
+424,CE-334 Nueva York-Av. Insurgentes,334,Benito Juárez
+69,CE-335 Magdalena-Ameyalco,335,Benito Juárez
+394,CE-336 San Borja-Cda. Dr. J. Bartolache,336,Benito Juárez
+19,CE-337 San Borja-Martín Mendalde,337,Benito Juárez
+411,CE-338 Nicolás San Juan-San Borja,338,Benito Juárez
+220,CE-339 Enrique Rébsamen-Avenida Eugenia,339,Benito Juárez
+397,CE-340 Anaxágoras-Avenida Eugenia,340,Benito Juárez
+77,CE-341 San Borja-Avenida Cuauhtémoc,341,Benito Juárez
+417,CE-342 Pitágoras-Av. División del Norte,342,Benito Juárez
+74,CE-343 Enrique Rébsamen-División Del Norte,343,Benito Juárez
+57,CE-345 Patricio Sanz - Miraflores,345,Benito Juárez
+429,CE-346 San Francisco-Santa Margarita,346,Benito Juárez
+416,CE-347 Pennsylvania-Maximino Avila Camacho,347,Benito Juárez
+39,CE-348 Indiana-Avenida San Antonio,348,Benito Juárez
+63,CE-349 Augusto Rodin-Avenida San Antonio,349,Benito Juárez
+389,CE-351 Calle 27-Avenida Revolución,351,Benito Juárez
+405,CE-352 Tintoreto-Giorgione,352,Benito Juárez
+41,CE-353 Carolina-Holbein,353,Benito Juárez
+47,CE-354 Boston-Av. Insurgentes,354,Benito Juárez
+428,CE-355 California-Sacramento,355,Benito Juárez
+433,CE-356 Matías Romero -Adolfo Prieto,356,Benito Juárez
+462,CE-357 Matías Romero -Amores,357,Benito Juárez
+53,CE-358 Nicolás San Juan-Matias Romero,358,Benito Juárez
+448,CE-359 Matías Romero -Pestalozzi,359,Benito Juárez
+25,CE-360 Heriberto Frías-Matias Romero,360,Benito Juárez
+60,CE-361 Porfirio Díaz-Capulín,361,Benito Juárez
+26,CE-362 Augusto Rodin-Alberto Balderas,362,Benito Juárez
+427,CE-363 Holbein-Paulo Ucello,363,Benito Juárez
+27,CE-365 Holbein-Avenida Revolución,365,Benito Juárez
+406,CE-366 Porfirio Díaz-Augusto Rodin,366,Benito Juárez
+43,CE-367 Boston -Augusto Rodin,367,Benito Juárez
+419,CE-369 Porfirio Díaz-Av. Insurgentes,369,Benito Juárez
+46,CE-370 Tlacoquemécatl-Av. Insurgentes,370,Benito Juárez
+431,CE-371 Tlacoquemécatl-Capulín,371,Benito Juárez
+32,CE-372 Dr. Roberto Gayol-Tlacoquemécatl,372,Benito Juárez
+413,CE-373 Pilares-Gabriel Mancera,373,Benito Juárez
+37,CE-374 Pitágoras-Pilares,374,Benito Juárez
+17,CE-375 Tenayuca-División Del Norte,375,Benito Juárez
+24,CE-377 Heriberto Frías-Miguel Laurent,377,Benito Juárez
+35,CE-378 Miguel Laurent-Amores,378,Benito Juárez
+410,CE-380 Moras-San Lorenzo,380,Benito Juárez
+21,CE-381 San Lorenzo-Manzanas,381,Benito Juárez
+38,CE-384 Empresa-Poussin,384,Benito Juárez
+425,CE-385 Poussin-Empresa,385,Benito Juárez
+415,CE-386 Poussin-Donatello,386,Benito Juárez
+42,CE-387 Cadiz-Empresa,387,Benito Juárez
+420,CE-389 Santander-Félix Cuevas,389,Benito Juárez
+44,CE-390-391 Oso-Félix Cuevas,390-391,Benito Juárez
+460,CE-392 Patricio Sanz-Félix Cuevas,392,Benito Juárez
+61,CE-393 Adolfo Prieto-Félix Cuevas,393,Benito Juárez
+18,CE-394 Dr. Roberto Gayol-Félix Cuevas,394,Benito Juárez
+407,CE-395 San Lorenzo-Martín Mendalde,395,Benito Juárez
+422,CE-396 Martin Mendalde-Felix Cuevas,396,Benito Juárez
+40,CE-397 San Lorenzo-Gabriel Mancera,397,Benito Juárez
+449,CE-398 Juan Sánchez Azcona-Félix Cuevas,398,Benito Juárez
+23,CE-399 Heriberto Frías-San Lorenzo,399,Benito Juárez
+432,CE-401 San Lorenzo-Avenida Cuauhtémoc,401,Benito Juárez
+454,CE-402 Uxmal-Municipio Libre,402,Benito Juárez
+437,CE-404 Miguel Laurent-Avenida División Del Norte,404,Benito Juárez
+16,CE-405 División Del Norte-Municipio Libre,405,Benito Juárez
+5,CE-407  Prolongación Xochicalco-General Emiliano Zapata,407,Benito Juárez
+55,CE-409 Azores - División Del Norte,409,Benito Juárez
+20,CE-412 Parroquia-Avenida Universidad,412,Benito Juárez
+56,CE-413 Parroquia-Avenida Coyoacán,413,Benito Juárez
+51,CE-414 Parroquia-José Ignacio Bartolache,414,Benito Juárez
+11,CE-415 San Francisco-Parroquia,415,Benito Juárez
+414,CE-416 Recreo-Parroquia,416,Benito Juárez
+12,CE-417 Goya-Augusto Rodin,417,Benito Juárez
+58,CE-419 Actipan-Cadiz,419,Benito Juárez
+412,CE-420 María Luz Bringas-Oso,420,Benito Juárez
+29,CE-421 María Luz Bringas-Oso,421,Benito Juárez
+426,CE-422 Búfalo-José María Rico (Eje 8),422,Benito Juárez
+9,CE-423 Moras-José María Rico (Eje 8),423,Benito Juárez
+28,CE-424 Amores-José María Rico (Eje 8),424,Benito Juárez
+473,CE-425 Nicolas San Juan-Avenida Universidad,425,Benito Juárez
+456,CE-427 Avenida México-Coyoacán-Av. Popocatépetl (Eje 8),427,Benito Juárez
+6,CE-428  Prolongación Uxmal-Av. Popocatépetl (Eje 8),428,Benito Juárez
+50,CE-429 Pirineos-Av. Popocatépetl (Eje 8),429,Benito Juárez
+378,CE-430 Tripoli-Av. Popocatépetl (Eje 8),430,Benito Juárez
+52,CE-432 Carrillo Puerto-Avenida México-Coyoacan,432,Benito Juárez
+434,CE-433 Jose María Olloqui-Lopéz Cotilla,433,Benito Juárez
+33,CE-434 Jose María Olloqui-Amores,434,Benito Juárez
+423,CE-436 Rodríguez Saro-Búfalo,436,Benito Juárez
+36,CE-437 Moras-Comunal,437,Benito Juárez
+10,CE-438 Adolfo Prieto-José María Olloqui,438,Benito Juárez
+34,CE-439 Amores-Avenida Coyoacán,439,Benito Juárez
+683,CE-440  Martin Mendalde - M. López Cotilla,440,Benito Juárez
+445,CE-441 Puente Xoco-Real de Mayorazgo,441,Benito Juárez
+640,CE-442  Real de Mayorazgo - Avenida México - Coyoacán,442,Benito Juárez
+8,CE-443 Bruno Traven-Golondrinas,443,Benito Juárez
+444,CE-444 General Manuel Rincón-Agustín Gutierrez,444,Benito Juárez
+49,CE-445-446 Riff-Avenida Río Churubusco,445-446,Benito Juárez
+623,CE-588  Av. Fernando - La coruña,588,Benito Juárez
+543,CE-589 Cádiz - Calzada de Tlalpan,589,Benito Juárez
+569,CE-590 Fernando - Isabel la Católica,590,Benito Juárez
+605,CE-591 Simón Bolívar - La Coruña,591,Benito Juárez
+531,CE-592 Cádiz - Eje Central Lázaro Cárdenas,592,Benito Juárez
+625,CE-593 Zempoala - Diagonal de San Antonio,593,Benito Juárez
+585,CE-594 Xochicalco - Obrero Mundial,594,Benito Juárez
+590,CE-595 Yacatas - Diagonal de San Antonio,595,Benito Juárez
+638,CE-596 Cumbres de Maltrata - Uxmal,596,Benito Juárez
+504,CE-597 Diagonal San Antonio - Icacos,597,Benito Juárez
+633,CE-598 Palenque - Cumbres de Maltrata,598,Benito Juárez
+603,CE-599 La Morena - Zempoala,599,Benito Juárez
+602,CE-600 Cumbres de Acultzingo - Av. Universidad,600,Benito Juárez
+608,CE-601 Navarra - Fernando,601,Benito Juárez
+516,CE-602 Correspondencia - Eje Central Lázaro Cárdenas,602,Benito Juárez
+550,CE-603 Castilla - Eje 4 sur Xola,603,Benito Juárez
+533,CE-604 Andalucía - Carteros,604,Benito Juárez
+630,CE-605 5 de Febrero - Alfonso XIII,605,Benito Juárez
+660,CE-606 Alfonso XIII - Aragón,606,Benito Juárez
+615,CE-607 Unión Postal - Calzada de Tlalpan,607,Benito Juárez
+643,CE-608 Ahorro Postal - Francisco Márquez,608,Benito Juárez
+524,CE-609 Romero - Calzada de Tlalpan,609,Benito Juárez
+645,CE-610  Av. Víctor Hugo - Av. Niños Héroes de Chapultepec,610,Benito Juárez
+541,CE-611 Miguel Negrete - Niños Héroes de Chapultepec,611,Benito Juárez
+527,CE-612 Torres Adalid - Cumbres de Maltrata,612,Benito Juárez
+580,CE-613 Luz Saviñón - Doctor José María Vertiz,613,Benito Juárez
+652,CE-614 Torres Adalid - Av. Cuauhtémoc,614,Benito Juárez
+508,CE-615 Tajín - Universidad,615,Benito Juárez
+649,CE-616 Petén - Eje 5 Sur,616,Benito Juárez
+511,CE-617 Mitla - Eje 5 Sur,617,Benito Juárez
+515,CE-618 Bartolomé R. Salido - Edzna,618,Benito Juárez
+520,CE-619 Kiff - Rafael Solana Verduguillo,619,Benito Juárez
+530,CE-620 Fernando Montes de Oca - Priv. Lago,620,Benito Juárez
+629,CE-621 Lago Poniente - Calzada de Tlalpan,621,Benito Juárez
+453,CE-622 Fernando Montes de Oca - Eje 6 Sur,622,Benito Juárez
+525,CE-623 Fernando Montes de Oca - Antonio Rodríguez,623,Benito Juárez
+529,CE-624 Luis Spota - Eje Central Lázaro Cárdenas,624,Benito Juárez
+654,CE-625 Zempoala - Angel Urraza,625,Benito Juárez
+507,CE-626 San Borja - Petén,626,Benito Juárez
+628,CE-627 San Borja - Av. Universidad,627,Benito Juárez
+574,CE-628 Tenayuca - Chichen Itzá,628,Benito Juárez
+522,CE-629 Tajín - Chichen Itzá,629,Benito Juárez
+509,CE-630 Cuicuilco - Motozintla,630,Benito Juárez
+571,CE-631 Miguel Laurent - Eje Central,631,Benito Juárez
+653,CE-632 Victor Hugo - Sevilla,632,Benito Juárez
+545,CE-633 Canarias - Calzada Santa Cruz,633,Benito Juárez
+534,CE-634 Rumania - Víctor Hugo,634,Benito Juárez
+576,CE-635 Calzada Santa Cruz - Antillas,635,Benito Juárez
+599,CE-636 Ajusco - Antillas,636,Benito Juárez
+532,CE-637 Ajusco - Emperadores,637,Benito Juárez
+604,CE-638 Av Pirineos - C. Antillas,638,Benito Juárez
+536,CE-639 Bulgaria - Rumania,639,Benito Juárez
+573,CE-640 Odesa - Bulgaria,640,Benito Juárez
+646,CE-641 Sevilla - Av. Presidentes,641,Benito Juárez
+582,CE-642 Repúblicas - Monrovia,642,Benito Juárez
+503,CE-643 Filipinas - Av. Pirineos,643,Benito Juárez
+619,CE-644 Monrovia - Popocatépetl (Eje 8 Sur),644,Benito Juárez
+560,CE-645 Saratoga - Ajusco,645,Benito Juárez
+650,CE-646  Rumania - Av. Popocatépetl,646,Benito Juárez
+642,CE-647 Antillas - Nevado,647,Benito Juárez
+362,CE-667 Hermes - Mosqueta,667,Benito Juárez
+325,CE-668 Plateros - Capuchinas,668,Benito Juárez
+398,CE-669 Los Juarez - Sagredo,669,Benito Juárez
+366,CE-670 Felix Parra - Flamencos,670,Benito Juárez
+634,CE-671 Plateros - Jose María Velasco,671,Benito Juárez
+492,CE-672 José María Velasco - Damas,672,Benito Juárez
+496,CE-673 Miguel Noreña - José María Ibarrarán,673,Benito Juárez
+685,CE-680  Diego Becerra - Av. Revolución,680,Benito Juárez
+617,CE-648 Rafael Olivia - 20 de agosto,648,Coyoacán
+521,CE-649 Héroes del 47 - Calzada de Tlalpan,649,Coyoacán
+570,CE-650 Xicoténcatl- Prolongación Xicoténcatl,650,Coyoacán
+526,CE-651 Héroes del 47 - División del Norte,651,Coyoacán
+548,CE-652 Xicoténcatl - División del Norte,652,Coyoacán
+596,CE-653 Londres - División del Norte,653,Coyoacán
+595,CE-654 Londres - San Pedro,654,Coyoacán
+577,CE-655 Gomez Farias - Viena,655,Coyoacán
+276,CE-656 Ignacio Allende - Paris,656,Coyoacán
+369,CE-657 Madrid - Centenario,657,Coyoacán
+368,CE-658 Vicente Guerrero - Berlín,658,Coyoacán
+360,CE-659  Madrid - Avenida Mexico,659,Coyoacán
+364,CE-660 Josefa Ortiz de Dominguez - Circuito Interior,660,Coyoacán
+514,CE-661 Madrid - Universidad,661,Coyoacán
+572,CE-687 Francisco Sosa - Panzacola,687,Coyoacán
+513,CE-688 Panzacola - Miguel Ángel de Quevedo,688,Coyoacán
+519,CE-689 G. Pérez Valenzuela - Salvador Novo,689,Coyoacán
+616,CE-690 Tata Vasco - Av. Miguel Ángel de Quevedo,690,Coyoacán
+518,CE-691 Melchor Ocampo - Dulce Olivia,691,Coyoacán
+512,CE-692 Presidente Carranza - Francisco Sosa,692,Coyoacán
+618,CE-693 Xicoténcatl - Vicente Guerrero,693,Coyoacán
+505,CE-694 Ignacio Aldama - Centenario,694,Coyoacán
+614,CE-695 Malintzin - Allende,695,Coyoacán
+506,CE-696 México - Malintzin,696,Coyoacán
+564,CE-697 Francisco Sosa - Tres Cruces,697,Coyoacán
+644,CE-698 Cerrada Zamora - Av. Miguel Ángel de Quevedo,698,Coyoacán
+626,CE-699 San Gregorio - Felipe Carrillo Puerto,699,Coyoacán
+497,CE-700 Abasolo - Miguel Hidalgo,700,Coyoacán
+510,CE-701 Cuauhtémoc - Morelos,701,Coyoacán
+501,CE-702 Fernández Leal - Plaza de la Conchita,702,Coyoacán
+495,CE-703 Miguel Hidalgo - Calzada General Anaya,703,Coyoacán
+498,CE-704 Pacífico - Asia,704,Coyoacán
+620,CE-705 Europa - Miguel Ángel de Quevedo,705,Coyoacán
+500,CE-706 Canadá - Acolotitla,706,Coyoacán
+597,CE-707 Irlanda - División del Norte,707,Coyoacán
+502,CE-708 Irlanda-Canada,708,Coyoacán
+499,CE-709 Inglaterra - Antigua Taxqueña,709,Coyoacán
+292,CE-001 Río Sena-Río Balsas,001,Cuauhtémoc
+142,CE-002 Río Guadalquivir - Río Nazas,002,Cuauhtémoc
+113,CE-003 Reforma - Insurgentes,003,Cuauhtémoc
+465,CE-004 Río Nilo - Río Panuco,004,Cuauhtémoc
+123,CE-005 Río Pánuco Río Tiber,005,Cuauhtémoc
+137,CE-006 Río Pánuco - Río Sena,006,Cuauhtémoc
+131,CE-007 Río Elba - Río Lerma,007,Cuauhtémoc
+323,CE-008 Reforma - General Prim,008,Cuauhtémoc
+218,CE-009 Río Guadalquivir - Río Lerma,009,Cuauhtémoc
+240,CE-010 Reforma - Ramírez,010,Cuauhtémoc
+291,CE-011 Río Amazonas - Río Lerma,011,Cuauhtémoc
+136,CE-012 Río Lerma - Villalongín,012,Cuauhtémoc
+294,CE-013 Reforma - Río Mississippi,013,Cuauhtémoc
+267,CE-014 Reforma - Río de Plata,014,Cuauhtémoc
+261,CE-015 Reforma - Río Mississippi,015,Cuauhtémoc
+119,CE-016 Reforma - Río Tiber,016,Cuauhtémoc
+263,CE-017 Reforma - Río Tiber,017,Cuauhtémoc
+295,CE-018 Reforma - Río Rhin,018,Cuauhtémoc
+122,CE-019 Reforma - Río Rhin,019,Cuauhtémoc
+260,CE-020 Reforma- Río Támesis,020,Cuauhtémoc
+318,CE-021 Reforma - Dublín,021,Cuauhtémoc
+14,CE-022 Reforma - Manchester,022,Cuauhtémoc
+265,CE-023 Reforma - Praga,023,Cuauhtémoc
+352,CE-024 Reforma- Florencia,024,Cuauhtémoc
+120,CE-025 Reforma - Estocolmo,025,Cuauhtémoc
+353,CE-026 Reforma - Versalles,026,Cuauhtémoc
+279,CE-027 Reforma- Havre,027,Cuauhtémoc
+298,CE-028 Toledo- Tokio,028,Cuauhtémoc
+106,CE-029 Reforma - Bucareli,029,Cuauhtémoc
+184,CE-030 Hamburgo - Amberes,030,Cuauhtémoc
+171,CE-031 Hamburgo - Insurgentes,031,Cuauhtémoc
+173,CE-032 Londres - Sevilla,032,Cuauhtémoc
+176,CE-033 Londres - Florencia,033,Cuauhtémoc
+299,CE-034 Liverpool - Génova,034,Cuauhtémoc
+135,CE-035 Liverpool - Génova,035,Cuauhtémoc
+257,CE-036 Puebla - Veracruz,036,Cuauhtémoc
+180,CE-037 Guadalajara - Puebla,037,Cuauhtémoc
+296,CE-038 Cozumel - Puebla,038,Cuauhtémoc
+455,CE-039 Puebla - Medellín,039,Cuauhtémoc
+91,CE-040 Oaxaca - Puebla,040,Cuauhtémoc
+234,CE-041 Reforma - Av. de la República,041,Cuauhtémoc
+80,CE-042 Sinaloa - Valladolid,042,Cuauhtémoc
+225,CE-043 Revillagigedo - Juárez,043,Cuauhtémoc
+214,CE-044 Durango - Veracruz,044,Cuauhtémoc
+355,CE-045 Durango - Sonora,045,Cuauhtémoc
+93,CE-046 Durango - Salamanca,046,Cuauhtémoc
+289,CE-047 Plaza Madrid-Medellín,047,Cuauhtémoc
+228,CE-048 Independencia - Azueta,048,Cuauhtémoc
+89,CE-049 Mazatlán - Juan de la Barrera,049,Cuauhtémoc
+327,CE-050 Cuernavaca - Veracruz,050,Cuauhtémoc
+333,CE-051 Colima - Oaxaca,051,Cuauhtémoc
+356,CE-052 Hidalgo - Trujano,052,Cuauhtémoc
+92,CE-053 Fernando Montes de Oca - Tula,053,Cuauhtémoc
+376,CE-054 Parque España - Sonora,054,Cuauhtémoc
+446,CE-055  5 De Mayo - Bolívar,055,Cuauhtémoc
+83,CE-056 Alvaro Obregón - Medellin,056,Cuauhtémoc
+185,CE-057 Cuernavaca - Juan Escutia,057,Cuauhtémoc
+186,CE-058 Parque España - Juan de la Barrera,058,Cuauhtémoc
+71,CE-059 Popocatépetl - Ámsterdam,059,Cuauhtémoc
+95,CE-060 Mazatlán - Fernando Montes de Oca,060,Cuauhtémoc
+339,CE-061 Avenida México - Sonora,061,Cuauhtémoc
+338,CE-062 Fernando Montes de Oca - Amatlan,062,Cuauhtémoc
+258,CE-063 Nuevo León - Laredo,063,Cuauhtémoc
+82,CE-064 Sonora - Ámsterdam,064,Cuauhtémoc
+111,CE-065 Marconi - Tacuba,065,Cuauhtémoc
+90,CE-066 Mazatlán - Francisco Márquez,066,Cuauhtémoc
+73,CE-067 Vicente Suárez - Michoacán,067,Cuauhtémoc
+341,CE-068 Tamaulipas - Michoacán,068,Cuauhtémoc
+471,CE-069 Michoacán - Ámsterdam,069,Cuauhtémoc
+97,CE-070 Parque México - Michoacán,070,Cuauhtémoc
+84,CE-071 Amsterdam - Michoacan,071,Cuauhtémoc
+72,CE-072 Mazatlán - Alfonso Reyes,072,Cuauhtémoc
+373,CE-073 Campeche - Tamaulipas,073,Cuauhtémoc
+79,CE-074 Nuevo León - Ozulama,074,Cuauhtémoc
+262,CE-075 Alfonso Reyes - Atlixco,075,Cuauhtémoc
+81,CE-076 Chilpancingo - Campeche,076,Cuauhtémoc
+372,CE-077 Choapan - Tamaulipas,077,Cuauhtémoc
+374,CE-078 Benjamín Hill - Tamaulipas,078,Cuauhtémoc
+87,CE-079 Saltillo - Alfonso Reyes,079,Cuauhtémoc
+264,CE-080 Nuevo León - Aguascalientes,080,Cuauhtémoc
+86,CE-081 Aguascalientes - Insurgentes,081,Cuauhtémoc
+250,CE-082 Independencia - Marroquí,082,Cuauhtémoc
+85,CE-083 Alfonso Reyes - Nuevo León,083,Cuauhtémoc
+363,CE-084 Chilpancingo - Tlaxcala,084,Cuauhtémoc
+266,CE-085 Rosas Moreno - Sullivan,085,Cuauhtémoc
+320,CE-086 Sullivan-Insurgentes,086,Cuauhtémoc
+259,CE-087 Gante - Venustiano Carranza,087,Cuauhtémoc
+112,CE-088 2a Cerrada de 5 de Mayo - Palma,088,Cuauhtémoc
+269,CE-089 República de Guatemala - Monte de Piedad,089,Cuauhtémoc
+403,CE-090 José María Pino Suárez - Corregidora,090,Cuauhtémoc
+109,CE-091 Republica de Cuba-Allende,091,Cuauhtémoc
+272,CE-092 San Ildefonso-República de Argentina,092,Cuauhtémoc
+108,CE-093 Palma Norte-República de Cuba,093,Cuauhtémoc
+15,CE-094 Lic. Verdad-Moneda,094,Cuauhtémoc
+256,CE-095 20 de Noviembre-Venustiano Carranza,095,Cuauhtémoc
+361,CE-096 López-Ayuntamiento,096,Cuauhtémoc
+102,CE-097 República de Salvador-Pino Suárez,097,Cuauhtémoc
+490,CE-098 Emilio Dondé-Av. Balderas,098,Cuauhtémoc
+103,CE-099 Ernesto Pugibet-Luis Moya,099,Cuauhtémoc
+99,CE-100 20 de Noviembre-Mesones,100,Cuauhtémoc
+101,CE-102 Echeveste-Bolivar,102,Cuauhtémoc
+293,CE-103 Joaquín Velázquez de León - García Icazbalceta,103,Cuauhtémoc
+253,CE-104 San Jerónimo-Isabel la Católica,104,Cuauhtémoc
+100,CE-105 San Jerónimo-5 de Febrero,105,Cuauhtémoc
+613,CE-106 San Jerónimo-José María Pino Suarez,106,Cuauhtémoc
+104,CE-107-108 Tolsa-Balderas,107-108,Cuauhtémoc
+114,CE-109 Nezahualcóyotl-Isabel la Católica,109,Cuauhtémoc
+107,CE-110 Dr. Valenzuela-Dr. Río de la loza,110,Cuauhtémoc
+126,CE-111 Guillermo Prieto - Joaquín Velázquez de León,111,Cuauhtémoc
+110,CE-112 Av. Morelos-Abraham González,112,Cuauhtémoc
+115,CE-113 General Prim-Versalles,113,Cuauhtémoc
+215,CE-114 Lucerna-Abraham González,114,Cuauhtémoc
+133,CE-115 Roma-Dinamarca,115,Cuauhtémoc
+121,CE-116 Londres-Roma,116,Cuauhtémoc
+282,CE-117 Londres-Nápoles,117,Cuauhtémoc
+174,CE-118 Liverpool-Dinamarca,118,Cuauhtémoc
+238,CE-119 Turín-Abraham González,119,Cuauhtémoc
+167,CE-120 Marsella-Nápoles,120,Cuauhtémoc
+278,CE-121 Niza-Chapultepec,121,Cuauhtémoc
+105,CE-122 José María Vértiz-Av. Dr. Río de la Loza,122,Cuauhtémoc
+116,CE-123 Claudio Bernard-Dr. Lavista,123,Cuauhtémoc
+249,CE-124 Claudio Bernard-Dr. Liceaga,124,Cuauhtémoc
+98,CE-125 Morelia-Circular de Morelia,125,Cuauhtémoc
+193,CE-126 Jalapa-Puebla,126,Cuauhtémoc
+194,CE-127 Puebla-Merida,127,Cuauhtémoc
+88,CE-128 Orizaba-Río de Janeiro,128,Cuauhtémoc
+340,CE-129 Tonalá-Durango,129,Cuauhtémoc
+337,CE-130 Mérida-Durango,130,Cuauhtémoc
+183,CE-131 Colima-Jalapa,131,Cuauhtémoc
+138,CE-132 Colima-Frontera,132,Cuauhtémoc
+270,CE-133 Colima-Morelia,133,Cuauhtémoc
+175,CE-134 Álvaro Obregón-Orizaba,134,Cuauhtémoc
+268,CE-135 Álvaro Obregón-Morelia,135,Cuauhtémoc
+254,CE-136 Álvaro Obregón-Tonalá,136,Cuauhtémoc
+143,CE-137 Álvaro Obregón-Mérida,137,Cuauhtémoc
+447,CE-138 Guanajuato-Frontera,138,Cuauhtémoc
+144,CE-139 Tonalá-Guanajuato,139,Cuauhtémoc
+157,CE-140 Mérida-Zacatecas,140,Cuauhtémoc
+271,CE-141 Zacatecas-Luis Cabrera,141,Cuauhtémoc
+329,CE-142 San Luis Potosí-Eje 2 Pte. Monterrey,142,Cuauhtémoc
+168,CE-143 Córdoba-San Luis Potosí,143,Cuauhtémoc
+139,CE-144 Frontera-San Luis Potosí,144,Cuauhtémoc
+328,CE-145 Yucatán-Chiapas,145,Cuauhtémoc
+467,CE-146 Coahuila-Manzanillo,146,Cuauhtémoc
+140,CE-147 Coahuila-Orizaba,147,Cuauhtémoc
+188,CE-148 Coahuila-Av. Cuauhtémoc,148,Cuauhtémoc
+468,CE-149 Mérida-Antonio M. Anza,149,Cuauhtémoc
+169,CE-150 Campeche-Medellín,150,Cuauhtémoc
+346,CE-151 Campeche-Tonalá,151,Cuauhtémoc
+199,CE-152 Tlacotalpan-Campeche,152,Cuauhtémoc
+371,CE-153 Manzanillo-Tlaxcala,153,Cuauhtémoc
+367,CE-154 Tuxpan-Tlaxcala,154,Cuauhtémoc
+330,CE-155 Jalapa-Tlaxcala,155,Cuauhtémoc
+181,CE-156 Tepic-Ario,156,Cuauhtémoc
+205,CE-157 Tepic-Tlacotalpan,157,Cuauhtémoc
+152,CE-158-159 Huatabampo-Eje 1 Pte. Av. Cuauhtémoc,158-159,Cuauhtémoc
+358,CE-160 Alfonso Herrera-Gabino Barreda,160,Cuauhtémoc
+170,CE-161 Quintana Roo-Manzanillo,161,Cuauhtémoc
+350,CE-162 Tehuantepec-Medellín,162,Cuauhtémoc
+375,CE-163 Toluca-Bajío,163,Cuauhtémoc
+392,CE-164 Bajío-Tlacotalpan,164,Cuauhtémoc
+177,CE-165 Bajío-Eje 2 Pte. Monterrey,165,Cuauhtémoc
+246,CE-174 Joaquín Garcia Icazbalceta-Ignacio Manuel Altamirano,174,Cuauhtémoc
+305,CE-176 Av. Jesús García-Luis Donaldo Colosio,176,Cuauhtémoc
+189,CE-177 Benjamín Hill - Carlos Zetina,177,Cuauhtémoc
+450,CE-178 Tamaulipas-Francisco Murguía,178,Cuauhtémoc
+178,CE-179 Nuevo León-Quintana Roo,179,Cuauhtémoc
+195,CE-180 Quintana Roo-Villahermosa,180,Cuauhtémoc
+229,CE-181 Benjamín Franklin - Ometusco,181,Cuauhtémoc
+255,CE-183 Gabino Barreda-Guillermo Prieto,183,Cuauhtémoc
+132,CE-254 Alfonso Herrera-Miguel Shultz,254,Cuauhtémoc
+129,CE-255 José Rosas Moreno-Guillermo Prieto,255,Cuauhtémoc
+237,CE-256 Gómez Farías-Sadi Carnot,256,Cuauhtémoc
+311,CE-257 Manuel Maria Contreras-Villalongin,257,Cuauhtémoc
+290,CE-258 Circuito Interior-Juan Escutia,258,Cuauhtémoc
+117,CE-259 Tómas Alva Edison-Ponciano Arriaga,259,Cuauhtémoc
+705,CE-260 Av. Juárez-Balderas,260,Cuauhtémoc
+124,CE-261 Paseo de la Reforma-Río de la Plata,261,Cuauhtémoc
+251,CE-262 República de Cuba-República de Brasil,262,Cuauhtémoc
+125,CE-263 Sadi Carnot - Gómez Farias,263,Cuauhtémoc
+128,CE-264-275 Héroes Ferrocarrileros - Jesús Garcia,264-275,Cuauhtémoc
+127,CE-265 Mina - Jesús García,265,Cuauhtémoc
+313,CE-266-267 Jesús García - Carlos J. Meneses,266-267,Cuauhtémoc
+130,CE-268-269 Luis Donaldo Colosio - Av. Jesús García,268-269,Cuauhtémoc
+243,CE-270 De la República-Ponciano Arriaga,270,Cuauhtémoc
+141,CE-271-272 Jesús García - Carlos J. Meneses,271-272,Cuauhtémoc
+134,CE-273-274 Luis Donaldo Colosio - Av. Jesús García,273-274,Cuauhtémoc
+94,CE-447 Agustín Melgar-Zamora,447,Cuauhtémoc
+342,CE-448 Dr. Andrade-Arcos De Belén,448,Cuauhtémoc
+297,CE-449 Acapulco-Puebla,449,Cuauhtémoc
+241,CE-450 Ramos Arizpe- Av México Tenochtitlan,450,Cuauhtémoc
+478,CE-536 Fresno - Eulalia Guzmán (Eje 2 Norte),536,Cuauhtémoc
+470,CE-537 Fresno - Clavel,537,Cuauhtémoc
+622,CE-538 Nogal - Eligio Ancona,538,Cuauhtémoc
+621,CE-539 Naranjo - Av. Ricardo Flores Magon,539,Cuauhtémoc
+494,CE-540 Eucalipto - Ricardo Flores Magón,540,Cuauhtémoc
+486,CE-541 Eligio Ancona - Naranjo,541,Cuauhtémoc
+598,CE-542 Dr. Enrique González Martínez - Eligio Ancona,542,Cuauhtémoc
+493,CE-543 Jaime Torres Bodet - Manuel Carpio,543,Cuauhtémoc
+611,CE-544 Salvador Díaz Mirón - Nogal,544,Cuauhtémoc
+488,CE-545 Sabino - Salvador Díaz Mirón,545,Cuauhtémoc
+463,CE-546 Salvador Díaz Mirón - Santa María la Ribera,546,Cuauhtémoc
+667,CE-547 Dr. Enrique González Martínez - Salvador Díaz Mirón,547,Cuauhtémoc
+551,CE-548 Dr. Mariano Azuela - Jose Antonio Alzate,548,Cuauhtémoc
+349,CE-549 Sor Juana Ines de la Cruz - Dr. Atl,549,Cuauhtémoc
+347,CE-550 Sor Juana Ines de la Cruz - Fresno,550,Cuauhtémoc
+348,CE-551 Nogal - Ribera de San Cosme,551,Cuauhtémoc
+336,CE-552 Fresno - Ribera de San Cosme,552,Cuauhtémoc
+332,CE-553  Jaime Torres Bodet - Ribera de San Cosme,553,Cuauhtémoc
+345,CE-554 Heroes Ferrocarrileros - Mariano Azuela,554,Cuauhtémoc
+242,CE-555 Ribera de San Cosme - Insurgentes Centro,555,Cuauhtémoc
+558,CE-556 Plaza Tlaxcoaque - Diagonal 20 de noviembre,556,Cuauhtémoc
+581,CE-557 5 de Febrero - Fernando de Alva Ixtlilxochitl,557,Cuauhtémoc
+624,CE-558 Chimalpopoca - Simón Bolívar,558,Cuauhtémoc
+517,CE-559 Fernando de Alva Ixtlilxochitl - Diagonal 20 de noviembre,559,Cuauhtémoc
+540,CE-560 Doctor Liceaga - Eje Central,560,Cuauhtémoc
+600,CE-561 Dr. Jiménez - Dr. Lavista,561,Cuauhtémoc
+523,CE-562 Claudio Bernard - José María Vertiz,562,Cuauhtémoc
+539,CE-563 Doctor Velasco - Niños Héroes,563,Cuauhtémoc
+544,CE-564 Doctor Carmona y Valle - Doctor Velasco,564,Cuauhtémoc
+663,CE-565 Dr. Martinez del Rio - Dr. Lucio,565,Cuauhtémoc
+662,CE-566 Dr. Jiménez - Dr. García Diego,566,Cuauhtémoc
+542,CE-567 Doctor Martínez del Río - Doctor José Terrés,567,Cuauhtémoc
+535,CE-568 Doctor Barragán - Doctor Erazo,568,Cuauhtémoc
+561,CE-569 Gutiérrez Nájera - Bolívar,569,Cuauhtémoc
+641,CE-570 Alfredo Chavero - Simón Bolívar,570,Cuauhtémoc
+555,CE-571 Manuel M. Flores - Calzada San Antonio Abad,571,Cuauhtémoc
+637,CE-572 Manuel J. Othón - José T. Cuellar,572,Cuauhtémoc
+537,CE-573 Fernando Ramírez - Isabel la Católica,573,Cuauhtémoc
+648,CE-574 José María Roa Bárcenas - Simón Bolívar,574,Cuauhtémoc
+568,CE-575 Fernando Ramírez - Eje Central,575,Cuauhtémoc
+658,CE-576 Doctor Arce - Jose Maria Vertiz,576,Cuauhtémoc
+528,CE-577 Doctor Márquez - Doctor Jiménez,577,Cuauhtémoc
+556,CE-578 Doctor Jiménez - Doctor Federico Gómez Santos,578,Cuauhtémoc
+547,CE-579 Doctor Márquez - Privada Doctor Duran,579,Cuauhtémoc
+567,CE-580 Antonio Solís - Bolívar,580,Cuauhtémoc
+655,CE-581 José María Roa Bárcenas - San Antonio Abad,581,Cuauhtémoc
+670,CE-582 Antonio Solis-San Antonio Abad,582,Cuauhtémoc
+635,CE-583 Ángel del Campo - 5 de Febrero,583,Cuauhtémoc
+566,CE-584 Enrique Granados - José Peón Contreras (Eje 3),584,Cuauhtémoc
+601,CE-585 José Toribio Medina - Manuel Navarrete,585,Cuauhtémoc
+665,CE-586 Bernardo Couto-Juan E. Hernández y Davalos,586,Cuauhtémoc
+664,CE-587 Jose Toribio Medina - Marcelino Davalos,587,Cuauhtémoc
+190,CE-166 Progreso-Cda. Antonio Maceo,166,Miguel Hidalgo
+197,CE-167 General Salvador Alvarado-Progreso,167,Miguel Hidalgo
+365,CE-168 Comercio-Progreso,168,Miguel Hidalgo
+377,CE-169 Prosperidad-Progreso,169,Miguel Hidalgo
+334,CE-170 Observatorio Oriente-Revolución,170,Miguel Hidalgo
+379,CE-171 Comercio-Jose Martí,171,Miguel Hidalgo
+436,CE-172 General Francisco Murguía-José Martí,172,Miguel Hidalgo
+192,CE-173 Minería-José Martí,173,Miguel Hidalgo
+187,CE-175 Mutualismo-José Martí,175,Miguel Hidalgo
+381,CE-182 Progreso-Astrónomos,182,Miguel Hidalgo
+370,CE-184 General Gómez Pedraza-Gobernador Tiburcio Montiel,184,Miguel Hidalgo
+146,CE-185 General Antonio Léon-General Pedro Antonio de los Santos,185,Miguel Hidalgo
+639,CE-186 Gob. Gregorio V. Gelati-Gral. Francisco Molinos del Campo,186,Miguel Hidalgo
+384,CE-187 General Cano-Gobernador Gregorio V. Gelati,187,Miguel Hidalgo
+221,CE-188 Gobernador Melchor Múzquiz-Gobernador Ignacio Esteva,188,Miguel Hidalgo
+223,CE-189 Gobernador Rafael Rebollar-Gobernador José Ceballos,189,Miguel Hidalgo
+145,CE-190 Gobernador Ignacio Esteva-Maestro José Vasconcelos,190,Miguel Hidalgo
+354,CE-191 Gobernador Rafael Rebollar-Gobernador Vicente Eguía,191,Miguel Hidalgo
+164,CE-192-193 Rubén Darío.Reforma,192-193,Miguel Hidalgo
+359,CE-194 Circuito Mahatma Gandhi-Reforma,194,Miguel Hidalgo
+166,CE-195 Reforma-Circuito Mahatma Gandhi,195,Miguel Hidalgo
+198,CE-196 Lago Tanganica- Av. Ejército Nacional,196,Miguel Hidalgo
+657,CE-197 Presa Falcón - Miguel De Cervantes Saavedra,197,Miguel Hidalgo
+451,CE-198 Sócrates-Ejército Nacional,198,Miguel Hidalgo
+150,CE-199 Anatole France-Av. Ejército Nacional,199,Miguel Hidalgo
+200,CE-200 Emerson-Av. Ejército Nacional,200,Miguel Hidalgo
+314,CE-201 Lope de Vega-Av. Ejército Nacional,201,Miguel Hidalgo
+287,CE-202 Calderón de la Barca-Av. Homero,202,Miguel Hidalgo
+438,CE-203 Tennyson-Av. Homero,203,Miguel Hidalgo
+149,CE-204 Temístocles-Homero,204,Miguel Hidalgo
+421,CE-205 Taine-Homero,205,Miguel Hidalgo
+319,CE-206 Homero-Moliere,206,Miguel Hidalgo
+153,CE-207 Torquato Tasso-Homero,207,Miguel Hidalgo
+315,CE-208 Hesiodo-Lamartine,208,Miguel Hidalgo
+399,CE-209 Solón-Horacio,209,Miguel Hidalgo
+317,CE-210 Eugenio Sue-Horacio,210,Miguel Hidalgo
+302,CE-211 Isaac Newton-Horacio,211,Miguel Hidalgo
+156,CE-212 Hegel-Horacio,212,Miguel Hidalgo
+204,CE-213 Solón-Cicerón,213,Miguel Hidalgo
+161,CE-214 Platón-Horacio,214,Miguel Hidalgo
+286,CE-215 Edgar Alan Poe-Horacio,215,Miguel Hidalgo
+155,CE-216 Alejandro Dumas-Horacio,216,Miguel Hidalgo
+284,CE-217 Euler-Horacio,217,Miguel Hidalgo
+162,CE-218 Hegel-Ibarbourou,218,Miguel Hidalgo
+307,CE-219 Esopo-FC de Cuernavaca,219,Miguel Hidalgo
+148,CE-220 Plinio-Presidente Masaryk,220,Miguel Hidalgo
+316,CE-221 Emilio Castelar-Presidente Masaryk,221,Miguel Hidalgo
+154,CE-222 Alejandro Dumas-Presidente Masarik,222,Miguel Hidalgo
+324,CE-223 Isaac Newton-Presidente Masaryk,223,Miguel Hidalgo
+285,CE-224 Hegel-Presidente Masaryk,224,Miguel Hidalgo
+331,CE-225 Petrarca-Presidente Masaryk,225,Miguel Hidalgo
+235,CE-226 Wallon-Presidente Masaryk,226,Miguel Hidalgo
+301,CE-227 Campos Elíseos-Periférico,227,Miguel Hidalgo
+147,CE-228 Campos Elíseos-La Fontaine,228,Miguel Hidalgo
+158,CE-229 Carlos Dickens-Séneca,229,Miguel Hidalgo
+458,CE-230 Edgar Allan Poe - Carlos Dickens,230,Miguel Hidalgo
+159,CE-231 Isaac Newton-Aristóteles,231,Miguel Hidalgo
+300,CE-232 Taine - Rubén Darío,232,Miguel Hidalgo
+321,CE-233 Julio Verne-Luis G. Urbina,233,Miguel Hidalgo
+219,CE-234 Tres Picos-Arquímides,234,Miguel Hidalgo
+252,CE-235-236 Campos Elíseos-Moliere,235-236,Miguel Hidalgo
+247,CE-237-238 Andrés Bello-George Eliot,237-238,Miguel Hidalgo
+275,CE-239 Rincón del Bosque-Ruben Darío,239,Miguel Hidalgo
+288,CE-240 Ejército Nacional-F.C. de Cuernavaca,240,Miguel Hidalgo
+191,CE-241 Ejército Nacional-Juan Vázquez de la Mella,241,Miguel Hidalgo
+326,CE-242 Pról. Moliere-Miguel de Cervantes Saavedra,242,Miguel Hidalgo
+163,CE-243 Lago Filt-Miguel de Cervantes Saavedra,243,Miguel Hidalgo
+306,CE-244 Lago Victoria-Miguel de Cervantes Saavedra,244,Miguel Hidalgo
+472,CE-245 Lago Onega-Av. Ejército Nacional,245,Miguel Hidalgo
+230,CE-246 Leibnitz-Thiers,246,Miguel Hidalgo
+151,CE-247 Herschel-Rousseau,247,Miguel Hidalgo
+244,CE-248 Shakespeare-Lafayette,248,Miguel Hidalgo
+224,CE-249 Shakespeare-Darwin,249,Miguel Hidalgo
+283,CE-250 Darwin-Mariano Escobedo,250,Miguel Hidalgo
+281,CE-251 Goethe-Darwin,251,Miguel Hidalgo
+280,CE-252 Víctor Hugo-Shakespeare,252,Miguel Hidalgo
+343,CE-253 Dante-Tolstoi,253,Miguel Hidalgo
+182,CE-285 12 de Octubre-Minería,285,Miguel Hidalgo
+357,CE-286 13 de Septiembre-Avenida Patriotismo,286,Miguel Hidalgo
+30,CE-287 13 de Septiembre-Puente de la Morena,287,Miguel Hidalgo
+322,CE-451 Campos Elíseos-Goldsmith,451,Miguel Hidalgo
+335,CE-452 Leibnitz-Av. Ejercito Nacional,452,Miguel Hidalgo
+461,CE-453 Pedregal-Teapa,453,Miguel Hidalgo
+202,CE-454 Montes Urales-Monte Pelvoux,454,Miguel Hidalgo
+312,CE-455 Pedregal-Ferrocarril De Cuernavaca,455,Miguel Hidalgo
+206,CE-456 Alpes-Montes Escandinavos,456,Miguel Hidalgo
+208,CE-457 Av. Prado Norte-Explanada,457,Miguel Hidalgo
+485,CE-458 Montes Urales-Volcán,458,Miguel Hidalgo
+207,CE-459 Volcán-Montes Urales,459,Miguel Hidalgo
+160,CE-460 Juan Vázquez De Mella-Homero,460,Miguel Hidalgo
+201,CE-461 Presa Don Martín-Boulevard Miguel De Cervantes Saavedra,461,Miguel Hidalgo
+440,CE-462 Presa Falcón-Presa Danxhó,462,Miguel Hidalgo
+552,CE-463 Lago Andrómaco-Lago Zurich,463,Miguel Hidalgo
+165,CE-464 Mateo Alemán-Prolongación Moliere,464,Miguel Hidalgo
+309,CE-465 Lago Ginebra-Lago Wetter,465,Miguel Hidalgo
+203,CE-466 Lago Onega-Lago Ladoga,466,Miguel Hidalgo
+196,CE-467 Lago Mayor-Lago Alberto,467,Miguel Hidalgo
+236,CE-468 Lago Xochimilco-Av. Ejército Nacional,468,Miguel Hidalgo
+226,CE-469 Bahía de la Concepción-Bahía de Todos Los Santos,469,Miguel Hidalgo
+273,CE-470 Bahía de Las Palmas-Bahía de Todos Los Santos,470,Miguel Hidalgo
+442,CE-471 Bahía de Chachalacas-Bahía de Santa Bárbara,471,Miguel Hidalgo
+227,CE-472 Bahía de Santa Bárbara-Bahía de Ballenas,472,Miguel Hidalgo
+439,CE-473 Bahía del Espíritu Santo-Bahía de Banderas,473,Miguel Hidalgo
+304,CE-474 Bahía de San Hipólito-Bahía del Espíritu Santo,474,Miguel Hidalgo
+239,CE-475 Lago Muritz-Lago Alberto,475,Miguel Hidalgo
+245,CE-476 Lago Como-Laguna de Mayrán,476,Miguel Hidalgo
+441,CE-477 Lago Iseo-Laguna de Mayrán,477,Miguel Hidalgo
+303,CE-478 Laguna de Mayrán-Lago Chalco,478,Miguel Hidalgo
+231,CE-479 Lago Muritz-Av.Marina Nacional,479,Miguel Hidalgo
+233,CE-480 Lago Iseo-Av. Marina Nacional,480,Miguel Hidalgo
+474,CE-481 Lago Garda - Mariano Escobedo,481,Miguel Hidalgo
+487,CE-482 Lago Xochimilco - Laguna de San Cristóbal,482,Miguel Hidalgo
+7,CE-483 Colegio Salesiano - Marina Nacional,483,Miguel Hidalgo
+607,CE-484 Laguna Mayran - Lago Cuitzeo,484,Miguel Hidalgo
+459,CE-485 Lago de Pátzcuaro - Marina Nacional,485,Miguel Hidalgo
+489,CE-486 Izcoatl - Circuito Interior Melchor Ocampo,486,Miguel Hidalgo
+344,CE-487 Nopaltzin - Quetzalcoatl,487,Miguel Hidalgo
+668,CE-488 Huetzin - Cuitláhuac,488,Miguel Hidalgo
+651,CE-489 Lago Chalco - Laguna Tamiahua,489,Miguel Hidalgo
+491,CE-490 Lago Garda - FFCC,490,Miguel Hidalgo
+627,CE-491 Colegio Salesiano - Lago Catemaco,491,Miguel Hidalgo
+480,CE-492 Lago Cuitzeo - Felipe Carrillo Puerto,492,Miguel Hidalgo
+636,CE-493 Lago Tláhuac - Laguna de Guzmán,493,Miguel Hidalgo
+538,CE-494 Tláloc - Calzada México Tacuba,494,Miguel Hidalgo
+469,CE-495 Amado Nervo - de los Maestros,495,Miguel Hidalgo
+466,CE-496 Maestro Rural - José Parres,496,Miguel Hidalgo
+479,CE-497 Manuel Carpio - Plan de Ayala,497,Miguel Hidalgo
+477,CE-498 de los Maestros - Plan de Agua Prieta,498,Miguel Hidalgo
+484,CE-499 de los Maestros - Calzada de los Gallos,499,Miguel Hidalgo
+606,CE-500 Plan de Guadalupe /Ferrocarril de Cuernavaca - Juan Sarabia,500,Miguel Hidalgo
+563,CE-501 Plan de Guadalupe /Ferrocarril de Cuernavaca - Eligio Ancona,501,Miguel Hidalgo
+475,CE-502 Mar Mediterráneo - Callejón de la Zanja,502,Miguel Hidalgo
+481,CE-503 Nextitla - Mar Egeo,503,Miguel Hidalgo
+476,CE-504 Mar Blanco - Calzada México Tacuba,504,Miguel Hidalgo
+701,CE-505 Mar Negro - Mariano Escobedo,505,Miguel Hidalgo
+482,CE-506 Mar Mediterráneo - Mar Arábigo,506,Miguel Hidalgo
+483,CE-507 Mar Mediterráneo - Azcapotzalco,507,Miguel Hidalgo
+1,CE-710 Molino del Rey - Glorieta de la Lealtad,710,Miguel Hidalgo
+700,CE-711 Molino del Rey - Av. Constituyentes,711,Miguel Hidalgo
+553,CE-662 Manzano - Circuito Interior,662,Álvaro Obregón
+549,CE-663 Hortensia - Avenida Universidad,663,Álvaro Obregón
+546,CE-664 Hortensia - 2da cerrada de Minerva,664,Álvaro Obregón
+584,CE-665 Moras - Mango,665,Álvaro Obregón
+557,CE-666 Moras - Naranjo,666,Álvaro Obregón
+631,CE-674 Silvestre Revueltas - Macedonio Alcalá,674,Álvaro Obregón
+686,CE-675 Manuel Castro Padilla - Av. Revolución,675,Álvaro Obregón
+684,CE-676  Ricardo Palmerín - Abundio Martínez,676,Álvaro Obregón
+695,CE-677  Juan Pablo II - Av. de los Insurgentes Sur,677,Álvaro Obregón
+559,CE-678 Francia - Tecoyotitla,678,Álvaro Obregón
+554,CE-679 Olivo - Tecoyotitla,679,Álvaro Obregón
+699,CE-681 Guty Cárdenas - Ricardo Castro,681,Álvaro Obregón
+698,CE-682 Manuel M. Ponce - Fernando M. Villalpando,682,Álvaro Obregón
+669,CE-683 Pedro Luis Ogazón-Insurgentes Sur,683,Álvaro Obregón
+579,CE-684 Vito Alessio Robles - Tecoyotitla,684,Álvaro Obregón
+609,CE-685 Av De la Paz - Insurgentes,685,Álvaro Obregón
+562,CE-686 Vito Alessio Robles - Universidad,686,Álvaro Obregón

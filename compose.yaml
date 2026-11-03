@@ -1,0 +1,17 @@
+# Mismo resultado que los comandos `docker run`, sin preocuparse por $(pwd) en Windows.
+#   docker compose run --rm analisis
+#   docker compose run --rm completo
+services:
+  analisis:
+    build: .
+    image: seguridad-ecobici
+    command: ["analisis"]
+    volumes:
+      - ./salidas:/app/salidas
+  completo:
+    build: .
+    image: seguridad-ecobici
+    command: ["completo"]
+    volumes:
+      - ./salidas:/app/salidas
+      - ./datos_crudos:/app/datos_crudos
