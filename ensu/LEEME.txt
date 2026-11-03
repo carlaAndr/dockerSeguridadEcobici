@@ -1,3 +1,0 @@
-Copia aquí los 25 archivos ensu_tabulados_basicos_*_xlsx.zip de tu carpeta
-Seguridad de Drive (de marzo 2020 a junio 2026). Pueden ir sueltos o en
-subcarpetas. ejecutar.py revisa que ninguno esté vacío antes de empezar.
